@@ -47,15 +47,15 @@
 
 <div align="center">
   <!-- Dynamic Contribution Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajavelofficial&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Overall Stats and Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajavelofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavelofficialE&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
 
 <div align="center">
   <!-- Snake Animation Eating Contribution Grid -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rajavelofficial/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
