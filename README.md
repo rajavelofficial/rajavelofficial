@@ -1,3 +1,6 @@
+<p align="top-right">
+  <img src="https://komarev.com/ghpvc/?username=rajavelofficial&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 <div align="center">
   <!-- Animated Typing Banner Header -->
   <a href="https://github.com/rajavelofficial">
@@ -23,10 +26,6 @@
 - ⚡ Fun fact: Active on decentralized social networks like Farcaster!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajavelofficial&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 
 ### 🛠️ Tech Stack & Skills
 
