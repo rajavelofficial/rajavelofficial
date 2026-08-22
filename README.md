@@ -55,7 +55,7 @@
 <div align="center">
   <!-- Overall Stats and Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=rajavelofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavelofficialE&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavelofficial&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
 
 <div align="center">
   <!-- Snake Animation Eating Contribution Grid -->
-  <img src="https://raw.githubusercontent.com/rajavelofficial/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rajavelofficial/rajavelofficial/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
