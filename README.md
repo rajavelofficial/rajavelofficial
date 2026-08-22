@@ -63,5 +63,11 @@
 ---
 
 <div align="center">
+  <a href="mailto:rajavelofficial2003@gmail.com">
+    <img src="https://img.shields.io/badge/Get_in_Touch-Mail_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</div>
+
+<div align="center">
   <sub>Let's connect and build something impactful together!</sub>
 </div>
