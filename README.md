@@ -27,6 +27,15 @@
 
 ---
 
+### 🔭 Current Focus & Research
+
+- 🎯 **Building:** End-to-end full-stack applications with React & Node.js
+- 📚 **Learning:** Advanced data modeling, system design, and decentralized identity (DID)
+- ✍️ **Writing:** Technical articles on full-stack architecture and developer workflows
+- 🤝 **Collaborating On:** Open-source Web3 and developer tooling projects
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 **Languages**
