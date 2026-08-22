@@ -24,6 +24,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajavelofficial&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ### 🛠️ Tech Stack & Skills
 
 **Languages**
