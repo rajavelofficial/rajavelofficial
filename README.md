@@ -53,9 +53,8 @@
 <br/>
 
 <div align="center">
-  <!-- Overall Stats and Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajavelofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavelofficial&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Activity Graph & Profile Summary (Reliable Alternative) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajavelofficial&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
