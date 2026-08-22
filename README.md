@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Typing Banner Header -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/rajavelofficial">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rajavel+J+%F0%9F%91%8B;Software+Developer+%7C+Web3+Explorer;Building+Scalable+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
   <br/><br/>
@@ -56,15 +56,6 @@
   <!-- Overall Stats and Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=rajavelofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavelofficial&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-### 📈 Contribution Graph Activity
-
-<div align="center">
-  <!-- Snake Animation Eating Contribution Grid -->
-  <img src="https://raw.githubusercontent.com/rajavelofficial/rajavelofficial/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
